@@ -1,4 +1,4 @@
-LTC Wallet API
+# LTC Wallet API
 
 Pythonで簡単にLitecoin（LTC）の残高取得・送金・履歴確認ができる自作APIです。  
 
