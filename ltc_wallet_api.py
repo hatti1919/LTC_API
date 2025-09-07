@@ -6,7 +6,7 @@ from pycoin.symbols.ltc import network
 DB_FILE = "wallets.json"
 COINGECKO_API = "https://api.coingecko.com/api/v3/simple/price?ids=litecoin&vs_currencies=jpy"
 BLOCKCYPHER_API = "https://api.blockcypher.com/v1/ltc/main"
-BLOCKCYPHER_TOKEN = "932bf4bccfe345659ba36f03bde82f32"  # ←ここにAPIトークン
+BLOCKCYPHER_TOKEN = "token"  # ←ここにAPIトークン
 
 # ----------------- ウォレット管理 -----------------
 def load_wallets():
