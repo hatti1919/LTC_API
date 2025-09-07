@@ -63,7 +63,7 @@ print("結果:", result)
 ```bash
 MIT License
 
-Copyright (c) 2025 husiri
+Copyright (c) 2025 hatti
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
